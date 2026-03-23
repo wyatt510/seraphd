@@ -60,7 +60,7 @@ you can contribute to seraph in multiple ways by [raising issues on the github](
 - **game suggestions:** suggest games to be added to seraph! provide a link if possible to the game to make it easier to add
 - **website suggestions:** suggest features to be added to the website
 - **website bugs:** report bugs you are experiencing with the website (not inside a game), providing some simple steps on how to replicate the bug
-- **game bugs:** report bugs that are happening during gameplay of a particular game
+- **game bugs:** report bugs that are https://skwaird.algebraic.truffles.takh.ee/
 
 
 
