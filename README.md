@@ -1,4 +1,4 @@
-<img src="images/seraphbanner.jpg">
+⁷<img src="images/seraphbanner.jpg">
   <p align="center">
     seraph; an open source game website that hosts 350+ games with customisable settings, full rehosting support and a beautiful design
     <br/>
@@ -62,6 +62,16 @@ you can contribute to seraph in multiple ways by [raising issues on the github](
 - **website bugs:** report bugs you are experiencing with the website (not inside a game), providing some simple steps on how to replicate the bug
 - **game bugs:** report bugs that are https://skwaird.algebraic.truffles.takh.ee/
 
+# for my securly bretheren
 
+## Truffled
+
+https://www.securly.com.northbangkokfc.com
+https://www.securly.com.phi-taiwan.com
+https://www.securly.com.ermestel.com
+https://www.securly.com.fixbigoil.com
+https://www.securly.com.intelligentscada.com
+
+😘😘😘
 
 
